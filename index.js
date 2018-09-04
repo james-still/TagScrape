@@ -54,7 +54,7 @@ app.get('/', function(req, res) {
       </head>
       <body>
         <h1>TagScrape</h1>
-        <p>To gain information about a specific HTML tag, input a tag name into the GET paramater <code>tag</code>.<br><br><code>http://james-still.com:3000/?tag=meta</code></p>
+        <p>To gain information about a specific HTML tag, input a tag name into the GET parameter <code>tag</code>.<br><br><code>http://james-still.com:3000/?tag=meta</code></p>
       </body>
     </html>
     `);
